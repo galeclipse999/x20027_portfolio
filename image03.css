@@ -1,0 +1,222 @@
+body {
+	 font-family: 'メイリオ', 'Meiryo', sans-serif;
+}
+
+.global-nav {
+     display: flex;
+	 justify-content: space-around;
+	 list-style: none;
+	 display: flex;
+	 color: silver;
+	 text-align: center;
+	 background-color: white;
+	 border: 1px solid silver;
+}
+	 
+.global-nav li {
+	 line-height: 60px;
+	 width: 100px;
+	 display: inline-block;
+	 font-size: 16px;
+	 text-align: right;
+	 text-decoration: none;
+	 font-weight: bold;
+}
+  
+.hero {
+	 background: silver;
+	 width: 1800px;
+	 height: 500px;
+	 font-size: 90%;
+	 display: table-cell;
+	 text-align: center; 
+	 vertical-align: middle;
+	 border-color: silver;
+	 border-top: 2px; 
+	 border-bottom: 2px; 
+	 border: 1px solid silver;
+	 background-image: url("/gazou/1.jpeg");
+}
+  
+section {
+	 color: gray;
+	 position: relative;
+	 font-size: 27px;
+	 text-align: center;
+	 border-bottom: 5px solid #f6f6f6;
+}
+
+.about {
+	 height: 1150px;
+}
+
+.min {
+	 font-size: 14pt;
+	 padding-top: -1000px;
+}
+
+h4 {
+	 font-size: 18pt;
+}
+
+h6 {
+	 font-size: 12pt;
+}
+
+.vision /* div */ {
+	 text-align: left;
+	 display: inline-block;
+	 height: 450px;
+}
+
+.vision-texts {
+	 display: inline-block;
+	 vertical-align: middle;
+	 padding-right: 450px;
+	 text-align: left;
+	 /* vertical-align: top; */
+}
+
+.vision-images {
+	 display: inline-block;
+	 vertical-align: middle;
+	 margin: 0 0 0 auto;
+	 padding-top: 20px;
+	 padding-left: 500px;
+     /* text-align: right; */
+}
+
+.linkbutton-readmore {
+	 height: 40px;
+	 width: 250px;
+	 font-weight: lighter;
+     text-align: center;
+	 border:1px solid black;
+	 color: white;
+	 background-color: black;
+	 padding: 25px 60px;
+}
+
+.message {
+	 height: 700px;
+}
+
+.message-texts {
+	 font-size: 150%;
+}
+
+.service { 
+	 margin: auto;                
+	 box-sizing: border-box;           
+	 background: silver;              
+	 border: 1px solid silver;     
+	 width: 1350px;            
+	 height: 1350px;        
+}
+
+.service-main div {
+	 display: flex;                
+	 justify-content: center;             
+	 flex-wrap: wrap;   
+}
+
+.service-sub div {
+	 display: flex;                
+	 justify-content: center;              
+	 flex-wrap : wrap;              
+	 background-color: white;
+}
+
+.service-item {
+	 width: 22em; 
+	 height: 20em; 
+	 border: solid 20px silver;
+	 background-color: white;
+	 padding: 0.5%;
+}
+
+.service-div {
+	 font-size: 25px;
+	 width: 14em; 
+	 height: 22em; 
+	 border: solid 20px silver;
+	 background-color: white;
+	 padding: 0.5%;
+	 flex-grow: 1;            
+}
+
+.service-icon {
+	 padding: 50px;
+}
+
+img.png {
+	 width: 100px;
+	 height: 100px;
+}
+
+.contact {
+	 margin         : auto;               
+	 box-sizing     : border-box;           
+	 background     : silver;                
+	 border         : 1px solid silver;     
+	 width          : 1200px;                
+	 height     : 350px;   
+}
+
+.contact-main {
+	 display: flex;
+	 text-align: center;          
+	 flex-wrap : wrap;   
+}
+
+.tel-hedding {	  
+	 display: inline-block;
+	 width: 18em; height: 5em; border: solid 1 silver;
+	 background-color: silver;
+	 padding: 5px;
+	 color: white;           
+	 margin:  10px;              
+	 border-radius:  5px;       
+	 vertical-align: middle;
+}
+   
+.toiawase {
+	 line-height: 125px;
+}
+
+.access-map {
+	 background-color: gray;
+	 height: 595px;
+	 font-size: 200%;
+	 text-align: center;
+	 vertical-align: bottom;
+	 border-color: black;
+	 border-top: 2px; 
+	 border-bottom: 2px; 
+	 border: 1px solid silver;
+}
+
+.access-address {
+	 text-align: left;
+}
+
+footer {
+	 text-align: center;
+	 color: silver;
+	 background-color: rgb(32, 32, 32);
+}
+
+footer h2 {
+	 font-size: 30px;
+	 height: 100px;
+}
+
+footer li {
+	 margin-right: 20px;
+	 padding-right: 10px;
+	 height: 100px;
+	 width: 50px;
+	 text-align: center;
+	 display: inline-block;
+	 font-size: 16px;
+}
