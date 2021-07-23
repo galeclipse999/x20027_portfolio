@@ -1,0 +1,7 @@
+#fizzbuzz li:nth-child(3n+3)::before {
+     content: "Fizz";
+}
+
+#fizzbuzz li:nth-child(5n+5)::after {
+     content: "Buzz";
+}
