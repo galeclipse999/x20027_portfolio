@@ -1,0 +1,323 @@
+.haru div:nth-child(1) {
+    /* base */
+    width: 70%;
+    background: rgb(255, 139, 158);
+  }
+
+.haru div:nth-child(2) {
+    /* main */
+    width: 25%;
+    background: yellowgreen;
+}
+
+.haru div:nth-child(3) {
+    /* accent */
+    width: 5%;
+    background: rgb(119, 67, 0);
+}
+  
+.natsu div:nth-child(1) {
+    /* base */
+    width: 70%;
+    background: rgb(0, 26, 255);
+}
+
+.natsu div:nth-child(2) {
+    /* main */
+    width: 25%;
+    background: rgb(0, 195, 255);
+}
+
+.natsu div:nth-child(3) {
+    /* accent */
+    width: 5%;
+    background: rgb(255, 145, 0);
+}
+  
+.aki div:nth-child(1) {
+    /* base */
+    width: 70%;
+    background: rgb(255, 81, 0);
+}
+  
+.aki div:nth-child(2) {
+    /* main */
+    width: 25%;
+    background: rgb(255, 217, 0);
+}
+  
+.aki div:nth-child(3) {
+    /* accent */
+    width: 5%;
+    background: rgb(119, 67, 0);
+}
+
+.fuyu div:nth-child(1) {
+    /* base */
+    width: 70%;
+    background: rgb(231, 231, 231);
+}
+
+.fuyu div:nth-child(2) {
+    /* main */
+    width: 25%;
+    background: rgb(0, 223, 193);
+}
+
+.fuyu div:nth-child(3) {
+    /* accent */
+    width: 5%;
+    background: rgb(0, 225, 255);
+}
+
+.karui div:nth-child(1) {
+    /* main */
+    width: 33%;
+    background: rgb(255, 126, 126);
+  }
+
+.karui div:nth-child(2) {
+    /* main */
+    width: 34%;
+    background: rgb(255, 222, 113);
+}
+
+.karui div:nth-child(3) {
+    /* main */
+    width: 33%;
+    background: rgb(106, 255, 168);
+}
+  
+.omoi div:nth-child(1) {
+    /* main */
+    width: 33%;
+    background: rgb(138, 0, 0);
+}
+
+.omoi div:nth-child(2) {
+    /* main */
+    width: 34%;
+    background: rgb(173, 142, 0);
+}
+
+.omoi div:nth-child(3) {
+    /* main */
+    width: 33%;
+    background: rgb(0, 128, 43);
+}
+  
+.fuwafuwa div:nth-child(1) {
+    /* main */
+    width: 33%;
+    background: rgb(255, 175, 175);
+}
+  
+.fuwafuwa div:nth-child(2) {
+    /* main */
+    width: 34%;
+    background: rgb(255, 241, 161);
+}
+  
+.fuwafuwa div:nth-child(3) {
+    /* main */
+    width: 33%;
+    background: rgb(156, 255, 194);
+}
+
+.dosshiri div:nth-child(1) {
+    /* main */
+    width: 33%;
+    background: rgb(73, 0, 0);
+}
+
+.dosshiri div:nth-child(2) {
+    /* main */
+    width: 34%;
+    background: rgb(80, 74, 0);
+}
+
+.dosshiri div:nth-child(3) {
+    /* main */
+    width: 33%;
+    background: rgb(0, 78, 33);
+}
+
+.cool div:nth-child(1) {
+    /* main */
+    width: 25%;
+    background: rgb(0, 255, 213);
+}
+  
+.cool div:nth-child(2) {
+    /* main */
+    width: 25%;
+    background: rgb(0, 238, 255);
+}
+  
+.cool div:nth-child(3) {
+    /* main */
+    width: 25%;
+    background: rgb(0, 60, 255);
+}
+
+.cool div:nth-child(4) {
+    /* main */
+    width: 25%;
+    background: rgb(76, 0, 255);
+}
+
+.hot div:nth-child(1) {
+    /* main */
+    width: 25%;
+    background: rgb(255, 217, 0);
+}
+
+.hot div:nth-child(2) {
+    /* main */
+    width: 25%;
+    background: rgb(255, 153, 0);
+}
+
+.hot div:nth-child(3) {
+    /* main */
+    width: 25%;
+    background: rgb(255, 81, 0);
+}
+
+.hot div:nth-child(4) {
+    /* main */
+    width: 25%;
+    background: rgb(255, 0, 0);
+}
+
+.future div:nth-child(1) {
+    /* main */
+    width: 60%;
+    background: rgb(197, 197, 197);
+}
+  
+.future div:nth-child(2) {
+    /* sub */
+    width: 20%;
+    background: rgb(0, 255, 234);
+}
+  
+.future div:nth-child(3) {
+    /* sub */
+    width: 20%;
+    background: rgb(210, 133, 255);
+}
+
+.ancient div:nth-child(1) {
+    /* main */
+    width: 60%;
+    background: rgb(122, 80, 0);
+}
+
+.ancient div:nth-child(2) {
+    /* sub */
+    width: 20%;
+    background: rgb(211, 162, 0);
+}
+
+.ancient div:nth-child(3) {
+    /* sub */
+    width: 20%;
+    background: rgb(136, 0, 0);
+}
+
+.wild div:nth-child(1) {
+    /* main */
+    width: 60%;
+    background: rgb(0, 65, 9);
+}
+
+.wild div:nth-child(2) {
+    /* sub */
+    width: 20%;
+    background: rgb(72, 255, 0);
+}
+
+.wild div:nth-child(3) {
+    /* sub */
+    width: 20%;
+    background: rgb(0, 133, 33);
+}
+
+.speed div:nth-child(1) {
+    /* main */
+    width: 60%;
+    background: rgb(0, 255, 221);
+}
+
+.speed div:nth-child(2) {
+    /* sub */
+    width: 20%;
+    background: rgb(250, 250, 250);
+}
+
+.speed div:nth-child(3) {
+    /* sub */
+    width: 20%;
+    background: rgb(0, 255, 128);
+}
+
+.full-color div:nth-child(1) {
+    /* main */
+    width: 10%;
+    background: red;
+}
+  
+.full-color div:nth-child(2) {
+    /* main */
+    width: 10%;
+    background: orange;
+}
+  
+.full-color div:nth-child(3) {
+    /* main */
+    width: 10%;
+    background: rgb(255, 230, 0);
+}
+
+.full-color div:nth-child(4) {
+    /* main */
+    width: 10%;
+    background: yellowgreen;
+}
+
+.full-color div:nth-child(5) {
+    /* main */
+    width: 10%;
+    background: rgb(0, 204, 255);
+}
+
+.full-color div:nth-child(6) {
+    /* main */
+    width: 10%;
+    background: rgb(0, 47, 255);
+}
+
+.full-color div:nth-child(7) {
+    /* main */
+    width: 10%;
+    background: rgb(162, 0, 255);
+}
+
+.full-color div:nth-child(8) {
+    /* main */
+    width: 10%;
+    background: rgb(255, 0, 170);
+}
+
+.full-color div:nth-child(9) {
+    /* main */
+    width: 10%;
+    background: rgb(36, 36, 36);
+}
+
+.full-color div:nth-child(10) {
+    /* main */
+    width: 10%;
+    background: rgb(197, 197, 197);
+}
