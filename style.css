@@ -1,0 +1,282 @@
+body {
+    font-family: 'メイリオ', 'Meiryo', sans-serif;
+    background-color: black;
+}
+
+.global-nav {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    display: flex;
+    background-color: rgb(223, 182, 0);
+}
+
+.topname {
+    color: black;
+}
+
+.change {
+    font-size: 20px;
+}
+
+.change-date {
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+ 
+.main {
+    width: 1800px;
+    height: 200px;
+    font-size: 90%;
+    display: table-cell;
+    text-align: center; 
+    vertical-align: middle;
+    border-top: 2px; 
+    border-bottom: 2px; 
+    background-image: url("/gazou/1.jpeg");
+}
+ 
+section {
+    color: silver;
+    position: relative;
+    font-size: 27px;
+    text-align: center;
+    border-bottom: 5px solid rgb(223, 182, 0);
+}
+
+.index {
+    font-size: 27px;
+    height: 60px;
+}
+
+.about {
+    height: 1150px;
+}
+
+.min {
+    font-size: 14pt;
+    padding-top: -1000px;
+}
+
+h4 {
+    font-size: 18pt;
+}
+
+h6 {
+    font-size: 12pt;
+}
+
+.vision /* div */ {
+    text-align: left;
+    display: inline-block;
+    height: 450px;
+}
+
+.vision-texts {
+    display: inline-block;
+    vertical-align: middle;
+    padding-right: 450px;
+    text-align: left;
+    /* vertical-align: top; */
+}
+
+.vision-images {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 0 0 auto;
+    padding-top: 20px;
+    padding-left: 500px;
+    /* text-align: right; */
+}
+
+.linkbutton-readmore {
+    height: 470px;
+}
+
+.linkbutton-readmore-01 {
+    height: 60px;
+    width: 200px;
+    font-size: 17px;
+    font-weight: lighter;
+    text-align: center;
+    border:1px solid white;
+    color: white;
+    background-color: red;
+    /* top: 10px; /* 上から10px移動 */
+    position: relative;
+    top: 20px;
+    left: 250px;
+}
+
+.linkbutton-readmore-02 {
+    height: 60px;
+    width: 200px;
+    font-size: 17px;
+    font-weight: lighter;
+    text-align: center;
+    border:1px solid white;
+    color: white;
+    position: relative;
+    bottom: 41px;
+    left: 560px;
+    background-color: rgb(255, 123, 0);
+}
+
+.linkbutton-readmore-03 {
+    height: 60px;
+    width: 200px;
+    font-size: 17px;
+    font-weight: lighter;
+    text-align: center;
+    border:1px solid white;
+    color: white;
+    position: relative;
+    bottom: 103px;
+    left: 870px;
+    background-color: rgb(255, 208, 0);
+}
+
+.linkbutton-readmore-04 {
+    height: 60px;
+    width: 200px;
+    font-size: 17px;
+    font-weight: lighter;
+    text-align: center;
+    border:1px solid white;
+    color: white;
+    position: relative;
+    bottom: 61px;
+    left: 250px;
+    background-color: yellowgreen;
+}
+
+.linkbutton-readmore-05 {
+    height: 60px;
+    width: 200px;
+    font-size: 17px;
+    font-weight: lighter;
+    text-align: center;
+    border:1px solid white;
+    color: white;
+    position: relative;
+    bottom: 123px;
+    left: 560px;
+    background-color: rgb(0, 158, 0);
+}
+
+.linkbutton-readmore-06 {
+    height: 60px;
+    width: 200px;
+    font-size: 17px;
+    font-weight: lighter;
+    text-align: center;
+    border:1px solid white;
+    color: white;
+    position: relative;
+    bottom: 185px;
+    left: 870px;
+    background-color: rgb(0, 195, 255);
+}
+
+.linkbutton-readmore-07 {
+    height: 60px;
+    width: 200px;
+    font-size: 17px;
+    font-weight: lighter;
+    text-align: center;
+    border:1px solid white;
+    color: white;
+    position: relative;
+    bottom: 140px;
+    left: 250px;
+    background-color: rgb(0, 38, 255);
+}
+
+.linkbutton-readmore-08 {
+    height: 60px;
+    width: 200px;
+    font-size: 17px;
+    font-weight: lighter;
+    text-align: center;
+    border:1px solid white;
+    color: white;
+    position: relative;
+    bottom: 202px;
+    left: 560px;
+    background-color: rgb(140, 0, 255);
+}
+
+.linkbutton-readmore-09 {
+    height: 60px;
+    width: 200px;
+    font-size: 17px;
+    font-weight: lighter;
+    text-align: center;
+    border:1px solid white;
+    color: white;
+    position: relative;
+    bottom: 264px;
+    left: 870px;
+    background-color: rgba(255, 255, 255, 0.911);
+}
+
+.linkbutton-readmore-10 {
+    height: 60px;
+    width: 200px;
+    font-size: 17px;
+    font-weight: lighter;
+    text-align: center;
+    border:1px solid white;
+    color: white;
+    position: relative;
+    bottom: 219px;
+    left: 405px;
+    background-color: gray;
+}
+
+.linkbutton-readmore-11 {
+    height: 60px;
+    width: 200px;
+    font-size: 17px;
+    font-weight: lighter;
+    text-align: center;
+    border:1px solid white;
+    color: white;
+    position: relative;
+    bottom: 281px;
+    left: 715px;
+    background-color: rgba(43, 43, 43, 0.267);
+}
+
+
+.homepages-index {
+    border-color: black;
+}
+
+.due-20th-container {
+    text-align: center;
+    color: silver;
+    font-size: 10px;
+    height: 80px;
+}
+
+footer {
+    text-align: center;
+    color: black;
+    background-color: rgb(223, 182, 0);
+}
+
+footer h2 {
+    font-size: 30px;
+    height: 100px;
+}
+
+footer li {
+    margin-right: 20px;
+    padding-right: 10px;
+    height: 100px;
+    width: 50px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+}
