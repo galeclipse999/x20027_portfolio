@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c&display=swap');
+
+@font-face {
+    font-family: kaiso;
+    src: url(font/Kaisotai-Next-UP-B.woff2);
+}
+
+.mp-rounded-1c {
+  font-family: "M PLUS Rounded 1c"; /* , sans-serif; */
+  font-weight: 400;
+}
+
+.kaiso {
+  font-family: "kaiso"; /* , sans-serif; */
+  font-weight: 400;
+}
