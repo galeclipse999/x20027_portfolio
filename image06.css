@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+*::before, *::after {
+    box-sizing: inherit;
+}
+
+:root {
+    font-size: 20pt;
+    font-family: Avenir , "Open Sans" , "Helvetica Neue" , Helvetica , Arial , Verdana , Roboto , "游ゴシック" , "Yu Gothic" , "游ゴシック体" , "YuGothic" , "ヒラギノ角ゴ Pro W3" , "Hiragino Kaku Gothic Pro" , "Meiryo UI" , "メイリオ" , Meiryo , "ＭＳ Ｐゴシック" , "MS PGothic" , sans-serif;
+}
+
+input {
+    font-size: inherit;
+    font-family: inherit;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: #8BC6EC; */
+    background-image: linear-gradient(135deg, red 0%, green 100%);
+}
+
+main {
+    width: 600px;
+    max-width: 95%;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    text-align: center;
+    border-radius: 1em;
+    background-color: #fff;
+    box-shadow: rgba(0, 0, 0, 0.1) 0 20px 60px -10px;
+}
+
+main h1,
+main h4 {
+    margin-bottom: 1rem;
+}
+
+main input {
+    font-size: 3rem;
+    padding: 0.25rem;
+    text-align: center;
+    width: 100%;
+}
+
+main button {
+    font-size: 1rem;
+}
+
+.message-container {
+    font-size: 1rem;
+    color: green;
+}
+
+.message-container.complete {
+    color: red;
+}
